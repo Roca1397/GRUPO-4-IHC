@@ -15,8 +15,7 @@
     font-size: 85px;
     margin-left: 37%;
     padding-left: 0px;
-    color: rgb(215, 177, 126);
-    text-shadow: 2px 2px 5px #78acc2;
+    color: rgb(0, 0, 0);
 }
 
 .cor,.tel{
@@ -114,7 +113,7 @@
     font-size: 36px;
    text-align: center;
    margin:0%;
-   background-color: rgb(225, 185, 126);
+   background-color: #d62b2b;
    color: rgb(255, 255, 255);
    border-radius: 8px;
    padding-top: 5%;

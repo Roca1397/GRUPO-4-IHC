@@ -34,8 +34,7 @@
     margin-left: 36%;
     margin-top: 70px;
     font-size: 85px;
-    color: rgb(215, 177, 126);
-    text-shadow: 2px 2px 5px #ff0000;
+    color: rgb(0, 0, 0);
 }
 
 
@@ -44,7 +43,7 @@
     margin-right: 3%;
     margin-left: 3%;
     width: 25%;
-    height: 500px;
+    height: 700px;
     margin-top: 500px;
     border: 1px solid rgb(249, 235, 235);
     border-radius: 10px;

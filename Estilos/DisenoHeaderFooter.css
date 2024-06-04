@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
     text-decoration: none;
+
 }
 
 
@@ -81,7 +82,7 @@ nav ul li a{
 }
 li a:hover{
     color: rgb(255, 255, 255);
-    background-color:  rgb(118, 185, 230);
+    background-color:  #d62b2b;
     border-color: rgb(118, 185, 230);
     transition: 0.8s all;
     transform: scale(1.1);
@@ -210,7 +211,6 @@ li a:hover{
 .b1{
     position: absolute;
     border-radius: 20px;
-    border-color: blue;
     background-color: rgb(12, 255, 64);
     color: rgb(0, 0, 0);
     display: inline;
@@ -221,7 +221,6 @@ li a:hover{
     margin-left: 25%;
     text-decoration: none;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    box-shadow: 0px 7px 7px 0px rgb(167, 168, 171);
 }
 .back{
     color: #a86664;

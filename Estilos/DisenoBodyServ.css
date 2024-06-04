@@ -14,7 +14,7 @@
 }
 .fondo{
     max-width: 2000px;
-    background-color: #1e8f9e;
+    background-color: #1d1d1d;
 }
 
 .S{
@@ -22,9 +22,8 @@
     text-align: center;
     font-size: 85px;
     margin-top: -12%;
-    color: rgb(215, 177, 126);
+    color: rgb(255, 255, 255);
     margin-bottom: 20px;
-    text-shadow: 2px 2px 5px #78acc2;
     
 }
 .card{
@@ -142,9 +141,7 @@
     text-align: center;
     font-size: 85px;
     margin-top: -7%;
-    color: rgb(215, 177, 126);
-    text-shadow: 2px 2px 5px #78acc2;
-    
+    color: rgb(0, 0, 0);
 }
 .item-slide img{
     width: 100%;
