@@ -1,5 +1,5 @@
 IHC-DengueCode
-Repositorio del código de html-css-js de la página de ProductInfo
+Repositorio del código de html-css-js de la página de DengueGuard
 
 Autores de ProductInfo: u20151B733 Rodrigo Franco Calle Alhuay - U20221a320 Flores Huaroto Saul Felipe - U202120005 Aldave Aldave Jean Pierr - U202221597 Franco Diego Rioja Nuñez - u201917662 Tony Do Santos Torres Cortez
 
