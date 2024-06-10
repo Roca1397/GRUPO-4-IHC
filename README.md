@@ -1,6 +1,6 @@
 IHC-DengueCode
 Repositorio del código de html-css-js de la página de ProductInfo
-Autores de ProductInfo: Alvarado Tordoya Tony - U202213750 Cacho Seminario Diego Alonso - U202223990 Rioja Collana, Martin Eduardo - U20221C917 Anampa Lavado Luis Angel - U20221a320 Flores Huaroto Saul Felipe - U20221c576 Grados Farfán Kevin Fabricio - U202218419
+Autores de ProductInfo: u20151B733 Rodrigo Franco Calle Alhuay - U20221a320 Flores Huaroto Saul Felipe - 
 
 Información principal de ProductInfo: Los Nutridos es una startup encabezada por distintos escolares de la Universidad Peruana de Ciencias Aplicadas (UPC), correspondientes a la facultad de Ingeniería. Esta empresa está orientada a la implementación de soluciones tecnológicas,
 mediante herramientas informativas y softwares a disposición de la comunidad universitaria y laboral. Con el propósito de garantizar una alimentación saludable a los usuarios, se ha desarrollado ProductInfo. Este aplicativo de fácil uso y acceso permitirá adquirir información nutricional de
