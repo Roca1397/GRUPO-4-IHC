@@ -1,12 +1,11 @@
 IHC-DengueCode
 Repositorio del código de html-css-js de la página de ProductInfo
 
-Autores de ProductInfo: u20151B733 Rodrigo Franco Calle Alhuay - U20221a320 Flores Huaroto Saul Felipe - U202120005 Aldave Aldave Jean Pierr - U202221597 Franco Diego Rioja Nuñez - 
+Autores de ProductInfo: u20151B733 Rodrigo Franco Calle Alhuay - U20221a320 Flores Huaroto Saul Felipe - U202120005 Aldave Aldave Jean Pierr - U202221597 Franco Diego Rioja Nuñez - u201917662 Tony Do Santos Torres Cortez
 
-Información principal de ProductInfo: Los Nutridos es una startup encabezada por distintos escolares de la Universidad Peruana de Ciencias Aplicadas (UPC), correspondientes a la facultad de Ingeniería. Esta empresa está orientada a la implementación de soluciones tecnológicas,
-mediante herramientas informativas y softwares a disposición de la comunidad universitaria y laboral. Con el propósito de garantizar una alimentación saludable a los usuarios, se ha desarrollado ProductInfo. Este aplicativo de fácil uso y acceso permitirá adquirir información nutricional de
-distintos productos comestibles en los supermercados, al igual que diversas recomendaciones de nutricionistas. -Misión: Proporcionar acceso fácil y rápido a información nutricional precisa de una amplia variedad de productos mediante una experiencia agradable e innovadora. Alentando un estilo de
-vida más saludable con el fin de mejorar la calidad de vida de los usuarios. -Visión: En los próximos 5 años, convertirnos en una empresa líder dentro de la región para la información nutricional, transformando la manera en la que las personas interactúan con su alimentación, 
-desarrollando una plataforma confiable de información nutricional que garantice rapidez y otorgue una experiencia innovadora.
+Nuestra startup "DengueGuard", ofrece una solución integral para informar y prevenir el dengue en el Perú. Imagina tener acceso a una herramienta que te permita no solo conocer las áreas de mayor riesgo de contagio mediante mapas de calor sino también aprender sobre la enfermedad y sus síntomas gracias a la información recopilada por nuestra nuestra IA y foro.
+De esta manera lograremos tomar medidas preventivas de manera rápida y efectiva, todo desde la comodidad de tu dispositivo móvil.
+"DengueCode" hace que la prevención del dengue sea accesible para todas aquellas personas que busquen informarse y prevenir la enfermedad. Esta aplicación no solo empodera a los ciudadanos para tomar medidas preventivas en sus hogares y comunidades, sino que también acelera el proceso de respuesta y control ante posibles brotes.
 
-Segmentos objetivo para ProductInfo: SO #1: Pacientes que padecen de una condición médica SO #2: Usuarios interesados en un mejor balance de su dieta
+
+Segmentos objetivo para DengueGuard: Personas de cualquier edad que padezcan o deseen prevenir el dengue en el Perú.
