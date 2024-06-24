@@ -1,0 +1,150 @@
+/*bloque de suscripciones*/
+/*posicion subs*/
+.tablas1{
+    position: relative;
+    width: 100%;
+    height: 650px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 12%;
+    padding-right: 5%;
+    margin-top: 50px;
+    margin-left: -50px;
+    align-content: center;  
+}
+
+/*posiciones entre nuestros planes y encabezados subs*/
+.PortadaSubcri{
+    position: relative;
+    height: 1000px;
+    max-width: 100%;
+    padding-bottom: 750px;
+    margin-top: 50px;
+    align-content: center;
+    justify-content: center;
+    text-align:  center;
+    margin: 0;
+    align-items: center;   
+}
+/*encabezado "nuestros planes"*/
+.PortadaSubcri h2{
+    position: absolute;
+    margin-left: 36%;
+    margin-top: 70px;
+    font-size: 85px;
+    color: rgb(0, 0, 0);
+}
+/*marco de los subs*/
+
+.tablas1 .Tabla{
+    background-color: rgb(255, 255, 255);
+    margin-right: 3%;
+    margin-left: 3%;
+    width: 25%;
+    height: 700px;
+    margin-top: 500px;
+    border: 1px solid rgb(249, 235, 235);
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 0px rgb(116, 145, 199);
+    padding: 60px;
+    padding-top: 0%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+/*tamaños encabezados subs*/
+.Tabla>h5{
+    text-align: center;
+    margin-left: -62px;
+    margin-right: -62px;
+    margin-top: 5px;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    font-size: 30px;
+    margin-top: 0%;
+    margin-bottom:35px;
+}
+/*precios*/
+.Tabla>h6{
+    padding-right: 5%;
+    margin-top: 5%;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+/* encambezado primera sub*/
+.co{
+    color: rgb(250, 249, 249);
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: rgb(113, 177, 113);
+    border-radius: 10px;
+}
+/* encambezado segunda sub*/
+.co2{
+    color: rgb(250, 249, 249);
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: rgb(130, 146, 194);
+    border-radius: 10px;
+}
+/* posicion imagen sub*/
+.Tabla>.ima1{
+    width: 100px;
+    height: 25%;
+    margin-top: 0%;
+    margin-left: -20px;
+    padding-top:0% ;
+    margin-bottom: 10px;
+}
+/* boton 1 sub*/
+.b_1{
+    display: inline-block;
+    width: 150px;
+    padding: 12px;
+    margin-top: 50px;
+    background: rgb(211, 58, 58);
+    text-decoration: none;
+    color: rgb(232, 232, 235);
+    text-align: center;
+    font-size: 10.84px;
+    font-weight: 600;
+    border-radius: 9px;
+    padding-left: 4px;
+    padding-right: 4px;
+    
+}
+/* boton 2 sub*/
+.b_2{
+    display: inline-block;
+    width: 150px;
+    padding: 12px;
+    background: rgb(211, 58, 58);
+    text-decoration: none;
+    color: rgb(232, 232, 235);
+    text-align: center;
+    font-size: 10.84px;
+    font-weight: 600;
+    margin-top: 30px;
+    border-radius: 9px ;
+    padding-left: 4px;
+    padding-right: 4px;
+
+}
+/* animacion 1 sub*/
+.tb1:hover{
+    background-color: rgb(139, 218, 155);
+    color: rgb(255, 255, 255);
+    transition: 0.8s all;
+    transform: scale(1.1);
+    cursor: pointer;
+    
+}
+/* boton 2 sub*/
+.tb2:hover{
+    background-color: rgb(160, 190, 224);
+    color: rgb(255, 255, 255);
+    transition: 0.8s all;
+    transform: scale(1.1);
+    cursor: pointer;
+}
